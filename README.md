@@ -32,12 +32,20 @@ Currently, I am deepening my expertise in Node.js, TypeScript, and database mana
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinloran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinloran&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin-Loran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Loran&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <hr>
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/kevinloran/">LinkedIn</a> | <a href="mailto:kevinloran.eng@gmail.com">Email</a> | São Paulo, Brazil
+<a href="https://www.linkedin.com/in/kevinloran/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&to=kevinloran.eng@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/São Paulo, Brazil-gray?style=for-the-badge&logo=googlemaps&logoColor=white" />
