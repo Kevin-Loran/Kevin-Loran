@@ -29,5 +29,15 @@ Currently, I am deepening my expertise in Node.js, TypeScript, and database mana
 
 <hr>
 
+### GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinloran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinloran&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<hr>
+
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/kevinloran/) | [Email](mailto:kevinloran.eng@gmail.com) | São Paulo, Brazil
+
+<a href="https://www.linkedin.com/in/kevinloran/">LinkedIn</a> | <a href="mailto:kevinloran.eng@gmail.com">Email</a> | São Paulo, Brazil
