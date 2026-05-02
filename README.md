@@ -1,16 +1,13 @@
 <div align="center">
-  <h1>Kevin Loran | Software Engineering Student</h1>
+  <h1>Kevin Loran Software Engineering Student</h1>
   <p>Software Engineering student (5th of 8 semesters).</p>
 </div>
-<hr>
 
 ### About me
-I am a Software Engineering student focused on back-end development. I treat this GitHub profile as a professional showcase, using my repositories to demonstrate my technical knowledge, coding standards, and evolution in the field.
 
-Currently, I am deepening my expertise in Node.js, TypeScript, and database management, committed to learning and applying best practices every day.
-
-*My GitHub is a window into my technical journey and skills.*
-<hr>
+- Software Engineering student — 5th of 8 semesters(USTJ)
+- Focused on back-end development with Node.js & TypeScript
+- Deepening expertise in databases: MySQL & MongoDB
 
 ### Tech Stack
 
