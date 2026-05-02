@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Kevin Loran | Software Engineering Student</h1>
-  <p>Software Engineering student (5th of 8 semesters) focused on building efficient back-end solutions with Node.js.</p>
+  <p>Software Engineering student (5th of 8 semesters).</p>
 </div>
 <hr>
 
@@ -27,16 +27,6 @@ Currently, I am deepening my expertise in Node.js, TypeScript, and database mana
   </tr>
 </table>
 
-<hr>
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin-Loran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Loran&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<hr>
 
 ### Connect with me
 
