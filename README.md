@@ -1,13 +1,14 @@
 <div align="center">
-  <h1>Kevin Loran Software Engineering Student</h1>
-  <p>Software Engineering student (5th of 8 semesters).</p>
+  <h1>Kevin Loran | backend developer</h1>
+  <p>Software Engineering student focused on backend development.</p>
 </div>
 
 ### About me
 
 - Software Engineering student — 5th of 8 semesters(USTJ)
-- Focused on back-end development with Node.js & TypeScript
+- Backend-focused, building REST APIs with Node.js & TypeScript
 - Deepening expertise in databases: MySQL & MongoDB
+- Studying Data Structures and Algorithms to strengthen fundamentals
 
 ### Tech Stack
 
