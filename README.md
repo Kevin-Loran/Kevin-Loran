@@ -28,12 +28,14 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/kevinloran/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=kevinloran.eng@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/São Paulo, Brazil-gray?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinloran/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=kevinloran.eng@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/São Paulo, Brazil-gray?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
