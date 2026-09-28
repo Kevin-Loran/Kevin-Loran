@@ -7,7 +7,7 @@
 
 - Software Engineering student — 5th of 8 semesters(USTJ)
 - Backend-focused, building REST APIs with Node.js & TypeScript
-- Deepening expertise in databases: MySQL & MongoDB
+- Deepening expertise in databases: MySQL & PostgresSQL
 - Studying Data Structures and Algorithms to strengthen fundamentals
 
 ### Tech Stack
